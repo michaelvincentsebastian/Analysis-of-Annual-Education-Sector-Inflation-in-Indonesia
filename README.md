@@ -1,2 +1,1 @@
-# Analysis of Annual Education Sector Inflation in Indonesia
-This analysis provides an overview of the annual (Year-on-Year) inflation rate within Indonesia's education sector, focusing on Consumer Price Index (CPI) data for education groups and sub-groups up to 2025. The data utilized represents the percentage increase or decrease in prices for various components of education costs, offering insights into the dynamics of education expenses and their potential impact on accessibility and the economic burden on the public.
+source datasets = https://www.bps.go.id/id/statistics-table/2/MjI1OCMy/inflasi-tahunan--y-on-y---2022-100--menurut-kelompok-dan-sub-kelompok-09-pendidikan--persen-.html
